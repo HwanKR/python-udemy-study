@@ -12,3 +12,4 @@ if height >= 120:
         print("Please pay $12.")
 else:
     print("Sorry you have to grow taller before you can ride.")
+ㅑ
